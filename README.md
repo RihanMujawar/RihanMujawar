@@ -66,11 +66,6 @@
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
 </div>
 
-## Featured Projects
-- `Project One` - Short one-line description. Replace with your best project.
-- `Project Two` - Short one-line description. Add a link to the repo.
-- `Project Three` - Short one-line description. Add a live demo link.
-
 ## GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=RihanMujawar&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br />
 <img src="https://nirzak-streak-stats.vercel.app/?user=RihanMujawar&theme=merko&hide_border=true" alt="GitHub Streak" /><br />
